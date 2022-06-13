@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:B2B8CA,100:4B5E9C&height=150&text=Neto+Junior+Nogueira&fontSize=30&&fontAlignX=35&fontColor=B2B8CA&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:B2B8CA,100:4B5E9C&height=150&text=Neto+Junior+Nogueira&fontSize=30&&fontAlignX=35&fontColor=9C9AB1&animation=twinkling"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&width=1000&center=true&color=B2B8CA&background=4B5E9C00&lines=HELLO%2C+MY+NAME+is+Neto+Junior+Nogueira;I'm+18+years+old;I+from+ACRE%2C+BRAZIL.)](https://git.io/typing-svg)
 
